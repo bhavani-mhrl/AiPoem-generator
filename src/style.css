@@ -72,3 +72,7 @@ footer{
     font-size: 13px;
     text-align: center;
 }
+
+a{
+    color: rgb(42, 124, 165);
+}
