@@ -72,9 +72,6 @@ axios.get(apiUrl).then(function (response) {
 - [SheCodes AI API](https://shecodes.io/ai)
 - [Axios](https://axios-http.com/) (for API requests)
 
-## 📄 License
-
-This project is open source and available for personal or educational use.
 
 ## 🙌 Acknowledgments
 
